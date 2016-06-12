@@ -8,6 +8,8 @@ mount -t nfs 192.168.200.28:/home/tomcat-cluster/tomcat-upload/web-weather-media
 mount -t nfs 192.168.200.28:/home/tomcat-cluster/tomcat-upload/web-lvye /home/www/real/up/web-lvye
 mount -t nfs 192.168.200.28:/home/tomcat-cluster/tomcat-upload/web-tdsp /home/www/real/up/web-tdsp
 mount -t nfs 192.168.200.28:/home/tomcat-cluster/tomcat-upload/lezcashier /home/www/real/up/lezcashier
+mount -t nfs 192.168.200.29:/home/tomcat-cluster/tomcat-upload/lezcashier /home/www/real/up/lezcashier/manage
+
 
 #测试
 #mount -t nfs 192.168.200.18:/home/tomcat-cluster/tomcat-upload /home/www/test/up
