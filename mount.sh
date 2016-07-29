@@ -19,6 +19,7 @@ mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/web-weather-media
 mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/web-qimeng /home/www/test/test/up/web-qimeng
 mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/web-lvye /home/www/test/test/up/web-lvye
 mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/web-tdsp /home/www/test/test/up/web-tdsp
-mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/manage-lezcashier /home/www/test/test/up/manage-lezcashier
 mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/web-weather-new-media /home/www/test/test/up/web-weather-new-media
 mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/manage-lezcashier /home/www/test/test/up/lezcashier/manage
+mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/manage-lezcashier /home/www/test/test/up/manage-lezcashier
+mount -t nfs 192.168.200.17:/home/tomcat-cluster/tomcat-upload/lezcashier /home/www/test/test/up/lezcashier
